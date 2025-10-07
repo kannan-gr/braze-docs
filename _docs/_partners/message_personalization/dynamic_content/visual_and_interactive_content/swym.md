@@ -26,7 +26,7 @@ Before you start, you'll need the following:
 
 | Prerequisite          | Description                                                                                                                                |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Swym  | Swym Wishlist Plus and/or Back in stock app(s) installed in your ecommerce platform (Shopify/BigCommerce).                                                                     |
+| Swym  | Swym Wishlist Plus and/or Back in stock app(s) installed in your ecommerce platform (Shopify/BigCommerce) and you are on the Enterprise plan.              |
 | A Braze REST API key  | A Braze REST API key with `users.track` permissions. <br><br> This can be created in the Braze dashboard from **Settings** > **API Keys**. |
 | A Braze REST endpoint | [Your REST endpoint URL](https://www.braze.com/docs/api/basics/#endpoints). Your endpoint will depend on the Braze URL for your instance.                                                 |
 {: .reset-td-br-1 .reset-td-br-2}
@@ -55,7 +55,7 @@ Settings > APIs and Identifiers > Create API Key
 
 **Important:** Please share credentials securely using [OneTimeSecret](https://onetimesecret.com/) (a one-time, self-destructive link tool) to keep your API keys protected.
 
-*b. Instance URL:* Braze manages a number of different instances for our dashboard and REST endpoints. Please share the correct REST endpoint based on which instance you are provisioned to. You can refer to this API guide from Braze for further help.
+*b. Instance URL:* Braze manages a number of different instances for our dashboard and REST endpoints. Please share the correct REST endpoint based on which instance you are provisioned to. You can refer to [this API guide](https://www.braze.com/docs/api/basics/#endpoints) from Braze for further help.
 
 Once the API key and Instance URL has been shared with Swym's Support team, they will set up the integration for you and respond with a confirmation.
 
