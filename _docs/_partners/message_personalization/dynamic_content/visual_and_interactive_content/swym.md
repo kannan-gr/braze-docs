@@ -26,9 +26,9 @@ Before you start, you'll need the following:
 
 | Prerequisite          | Description                                                                                                                                |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Swym  | Swym Wishlist Plus and/or Back in stock app(s) installed in the merchant's ecommerce platform (Shopify/BigCommerce).                                                                     |
+| Swym  | Swym Wishlist Plus and/or Back in stock app(s) installed in your ecommerce platform (Shopify/BigCommerce).                                                                     |
 | A Braze REST API key  | A Braze REST API key with `users.track` permissions. <br><br> This can be created in the Braze dashboard from **Settings** > **API Keys**. |
-| A Braze REST endpoint | [Your REST endpoint URL]({{site.baseurl}}/developer_guide/rest_api/basics/#endpoints). Your endpoint will depend on the Braze URL for your instance.                                                 |
+| A Braze REST endpoint | [Your REST endpoint URL](https://www.braze.com/docs/api/basics/#endpoints). Your endpoint will depend on the Braze URL for your instance.                                                 |
 {: .reset-td-br-1 .reset-td-br-2}
 
 <!-- An optional section you can use to outline the typical or atypical use cases for your integration. -->
