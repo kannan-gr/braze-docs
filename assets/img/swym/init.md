@@ -1,0 +1,1 @@
+# Swym docs screenshots
