@@ -178,6 +178,8 @@ valid_partner_list:
   url: /docs/partners/message_personalization/dynamic_content/peak/
 - name: Personalize.AI
   url: /docs/partners/message_personalization/dynamic_content/personalized_recommendations/personalize
+- name: Swym Wishlist Plus
+  url: /docs/partners/message_personalization/dynamic_content/visual_and_interactive_content/swym
 - name: Knak
   url: /docs/partners/message_orchestration/channel_extensions/email_templates/knak/
 - name: WSC Sports
